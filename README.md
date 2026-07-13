@@ -1,6 +1,4 @@
-﻿# Animation-appel-pour-les-oc-Gacha
- 
-# Logiciel de d'animation d'appel "vidéo" - ANIMATION
+﻿# Logiciel de d'animation d'appel "vidéo" - ANIMATION
 
 Un logiciel pour personnaliser les oc Gacha Life, Gacha Club, Gacha Life 2 dans une interface graphique.
 
