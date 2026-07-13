@@ -25,7 +25,6 @@ Pour que le logiciel fonctionne correctement, vous devez organiser vos images d'
 
 Il faut que chaque image soit dans un format 533*460.
 Utilisez une application pour supprimer l'arrière plan de chaque image et pour les images des bouches, ne gardez que la bouche.
-4. Dans `data/put_avatar.json`, rajoutez les prenoms des vos oc à la place des chiffres (s'il n'y a pas assez vous pouvez copier un bloc existant plusieurs fois et rajoutez les prénoms).
 
 ## 🚀 Installation
 4. Cloner le dépôt :
