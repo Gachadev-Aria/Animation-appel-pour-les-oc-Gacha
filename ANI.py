@@ -240,9 +240,9 @@ class ANIMATION():
         """
         self.root.update_idletasks()
         x = 440
-        y = 285
+        y = 325
         w = 1435
-        h = 720
+        h = 760
 
         screenshot = ImageGrab.grab(bbox=(x, y, w, h))
         now = datetime.now()
