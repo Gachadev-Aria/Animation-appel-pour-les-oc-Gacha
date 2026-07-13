@@ -1,0 +1,86 @@
+{
+    "Nadira": {
+        "type_yeux": "Fermés",
+        "type_bouche": "1",
+        "miroir": 0,
+        "bg": "#ee82ee"
+    },
+    "Zahir": {
+        "type_yeux": "Fermés",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": "#7DC8F7"
+    },
+    "Najhara": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "1",
+        "miroir": 1,
+        "bg": "#76bd17"
+    },
+    "Ida": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 0,
+        "bg": "#3fff00"
+    },
+    "Antoine": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "1",
+        "miroir": 0,
+        "bg": "#2c0e8c"
+    },
+    "1": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "2": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "3": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "4": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "5": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "6": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "7": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "8": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    },
+    "9": {
+        "type_yeux": "Ouverts",
+        "type_bouche": "0",
+        "miroir": 1,
+        "bg": ""
+    }
+}
