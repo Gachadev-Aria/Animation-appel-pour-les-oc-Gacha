@@ -30,5 +30,5 @@ Utilisez une application pour supprimer l'arrière plan de chaque image et pour 
 ## 🚀 Installation
 4. Cloner le dépôt :
    ```bash
-   git clone [https://github.com/ton_utilisateur/Animation-appel-pour-les-oc-Gacha.git](https://github.com/Gachadev-Aria/Animation-appel-pour-les-oc-Gacha)
+   git clone https://github.com/Gachadev-Aria/Animation-appel-pour-les-oc-Gacha.git
    cd Animation-appel-pour-les-oc-Gacha
