@@ -27,7 +27,7 @@ class ANIMATION():
         tk.Label(self.root, text=f"Animation d'un appel", 
                  font=("Comic Sans MS", 18)).pack(side=tk.TOP, pady=10)
         
-        self.chemin = "put_avatar.json"
+        self.chemin = "data/put_avatar.json"
 
         # Simulation de l'appel avec différents personnages
         self.image_appel = tk.Frame(root, width=800, height=360, bg="black")
@@ -514,7 +514,7 @@ class ANIMATION():
                     "miroir": 0,
                     "bg": "black"
                 }
-                ecrire_fichier_json("put_avatar.json", self.données)
+                ecrire_fichier_json(self.chemin, self.données)
 
             # Recharge l'avatar
             avatar_img = self.create_avatar(prenom)
