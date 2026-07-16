@@ -8,8 +8,10 @@ Un logiciel pour personnaliser les oc Gacha Life, Gacha Club, Gacha Life 2 dans 
 - Sauvegarde et chargement des configurations.
 - Capture d'écran de la scène.
 
-## 📁 Organisation des fichiers
+## 📷 Aperçu
+[Aperçu.png]
 
+## 📁 Organisation des fichiers
 Pour que le logiciel fonctionne correctement, vous devez organiser vos images d'avatars comme suit :
 
 1. Créez un dossier `assets/` à la racine du logiciel.
