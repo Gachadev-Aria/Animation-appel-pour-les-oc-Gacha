@@ -31,3 +31,6 @@ Utilisez une application pour supprimer l'arrière plan de chaque image et pour 
    ```bash
    git clone https://github.com/Gachadev-Aria/Animation-appel-pour-les-oc-Gacha.git
    cd Animation-appel-pour-les-oc-Gacha
+
+##  Role de l'IA
+Ici, l'IA m'a permis de transformer ce projet pour le public et pas que pour mes propres images.
